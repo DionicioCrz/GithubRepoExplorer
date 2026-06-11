@@ -6,9 +6,9 @@ An iOS app that fetches and displays public GitHub repositories, showing key sta
 
 ## Screenshots
 
-> _Add screenshots here after running the app_
+<img width="300" alt="Main Screen" src="https://github.com/user-attachments/assets/deefeb15-de68-4e26-9758-7956edb9f4f8" />
+<img width="300" alt="Detail Screen" src="https://github.com/user-attachments/assets/d713f42c-b6a5-490c-ac1d-2fa35a28b0cf" />
 
----
 
 ## Features
 
@@ -28,7 +28,7 @@ An iOS app that fetches and displays public GitHub repositories, showing key sta
 ### MVP + Clean Architecture + Coordinator
 
 ```
-GitHubRepoExplorer/
+GithubRepoExplorer/
 ├── App/
 │   ├── AppDelegate.swift
 │   └── SceneDelegate.swift
