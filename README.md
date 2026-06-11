@@ -1,10 +1,3 @@
-//
-//  README.md
-//  GithubRepoExplorer
-//
-//  Created by Dionicio Cruz Velázquez on 3/16/26.
-//
-
 # GithubRepoExplorer
 
 An iOS app that fetches and displays public GitHub repositories, showing key stats and the last commit for each repo — loaded asynchronously as you scroll.
