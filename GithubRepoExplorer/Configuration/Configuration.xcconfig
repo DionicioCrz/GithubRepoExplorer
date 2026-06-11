@@ -1,0 +1,14 @@
+//
+//  Configuration.xcconfig
+//  GithubRepoExplorer
+//
+//  Created by Dionicio Cruz Velázquez on 3/16/26.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+
+#include "Secrets.xcconfig"
+
+BASE_URL = api.github.com
+GITHUB_TOKEN = $(GITHUB_TOKEN)
